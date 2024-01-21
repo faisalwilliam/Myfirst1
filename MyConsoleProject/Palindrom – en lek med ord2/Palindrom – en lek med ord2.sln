@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Palindrom – en lek med ord2", "Palindrom – en lek med ord2.vcxproj", "{AA5FBEEC-E50E-4148-8D04-FFEC3CDDCAA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA5FBEEC-E50E-4148-8D04-FFEC3CDDCAA1}.Debug|x64.ActiveCfg = Debug|x64
+		{AA5FBEEC-E50E-4148-8D04-FFEC3CDDCAA1}.Debug|x64.Build.0 = Debug|x64
+		{AA5FBEEC-E50E-4148-8D04-FFEC3CDDCAA1}.Debug|x86.ActiveCfg = Debug|Win32
+		{AA5FBEEC-E50E-4148-8D04-FFEC3CDDCAA1}.Debug|x86.Build.0 = Debug|Win32
+		{AA5FBEEC-E50E-4148-8D04-FFEC3CDDCAA1}.Release|x64.ActiveCfg = Release|x64
+		{AA5FBEEC-E50E-4148-8D04-FFEC3CDDCAA1}.Release|x64.Build.0 = Release|x64
+		{AA5FBEEC-E50E-4148-8D04-FFEC3CDDCAA1}.Release|x86.ActiveCfg = Release|Win32
+		{AA5FBEEC-E50E-4148-8D04-FFEC3CDDCAA1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB455753-34FC-45AF-9589-B5C08D4FA204}
+	EndGlobalSection
+EndGlobal

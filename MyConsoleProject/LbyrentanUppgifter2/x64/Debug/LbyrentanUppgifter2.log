@@ -1,0 +1,14 @@
+﻿  Labyrintan.cpp
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\LbyrentanUppgifter2\Labyrintan.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\LbyrentanUppgifter2\Labyrintan.cpp(25,12): warning C4309: '=': truncation of constant value
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\LbyrentanUppgifter2\Labyrintan.cpp(29,12): warning C4309: '=': truncation of constant value
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\LbyrentanUppgifter2\Labyrintan.cpp(33,12): warning C4309: '=': truncation of constant value
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\LbyrentanUppgifter2\Labyrintan.cpp(37,12): warning C4309: '=': truncation of constant value
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\LbyrentanUppgifter2\Labyrintan.cpp(41,12): warning C4309: '=': truncation of constant value
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\LbyrentanUppgifter2\Labyrintan.cpp(45,12): warning C4309: '=': truncation of constant value
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\LbyrentanUppgifter2\Labyrintan.cpp(49,12): warning C4309: '=': truncation of constant value
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\LbyrentanUppgifter2\Labyrintan.cpp(53,12): warning C4309: '=': truncation of constant value
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\LbyrentanUppgifter2\Labyrintan.cpp(57,12): warning C4309: '=': truncation of constant value
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\LbyrentanUppgifter2\Labyrintan.cpp(61,12): warning C4309: '=': truncation of constant value
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\LbyrentanUppgifter2\Labyrintan.cpp(65,12): warning C4309: '=': truncation of constant value
+  LbyrentanUppgifter2.vcxproj -> C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\LbyrentanUppgifter2\x64\Debug\LbyrentanUppgifter2.exe

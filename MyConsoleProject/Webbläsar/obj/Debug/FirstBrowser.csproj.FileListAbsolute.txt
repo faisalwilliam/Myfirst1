@@ -1,0 +1,12 @@
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Webbläsar\bin\Debug\Webbläsar.exe.config
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Webbläsar\bin\Debug\Webbläsar.exe
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Webbläsar\bin\Debug\Webbläsar.pdb
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Webbläsar\obj\Debug\FirstBrowser.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Webbläsar\obj\Debug\Webbläsar.Form1.resources
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Webbläsar\obj\Debug\Webbläsar.Properties.Resources.resources
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Webbläsar\obj\Debug\FirstBrowser.csproj.GenerateResource.cache
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Webbläsar\obj\Debug\FirstBrowser.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Webbläsar\obj\Debug\Webbläsar.exe
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Webbläsar\obj\Debug\Webbläsar.pdb
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Webbläsar\obj\Debug\Webbläsar.AboutBox.resources
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Webbläsar\obj\Debug\Webbläsar.Navigate.resources

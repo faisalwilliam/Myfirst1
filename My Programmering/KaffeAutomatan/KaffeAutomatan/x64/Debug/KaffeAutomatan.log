@@ -1,0 +1,3 @@
+﻿  KaffeAutomat.cpp
+C:\Users\willi\OneDrive\Skrivbord\My Programmering\KaffeAutomatan\KaffeAutomat.cpp(98,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  KaffeAutomatan.vcxproj -> C:\Users\willi\OneDrive\Skrivbord\My Programmering\KaffeAutomatan\x64\Debug\KaffeAutomatan.exe

@@ -1,0 +1,10 @@
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\PasswdTextBox\bin\Debug\PasswdTextBox.exe.config
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\PasswdTextBox\bin\Debug\PasswdTextBox.exe
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\PasswdTextBox\bin\Debug\PasswdTextBox.pdb
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\PasswdTextBox\obj\Debug\PasswdTextBox.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\PasswdTextBox\obj\Debug\PasswdTextBox.Form1.resources
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\PasswdTextBox\obj\Debug\PasswdTextBox.Properties.Resources.resources
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\PasswdTextBox\obj\Debug\PasswdTextBox.csproj.GenerateResource.cache
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\PasswdTextBox\obj\Debug\PasswdTextBox.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\PasswdTextBox\obj\Debug\PasswdTextBox.exe
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\PasswdTextBox\obj\Debug\PasswdTextBox.pdb

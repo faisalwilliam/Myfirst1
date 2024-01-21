@@ -1,0 +1,3 @@
+﻿  Tik Tak Toe.cpp
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Tik Tak Toe\Tik Tak Toe.cpp(119,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Tik Tak Toe.vcxproj -> C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Tik Tak Toe\x64\Debug\Tik Tak Toe.exe

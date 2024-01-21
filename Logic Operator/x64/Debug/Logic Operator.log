@@ -1,0 +1,4 @@
+﻿  LogicOPcpp.cpp
+C:\Users\willi\OneDrive\Skrivbord\Logic Operator\LogicOPcpp.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\willi\OneDrive\Skrivbord\Logic Operator\LogicOPcpp.cpp(25,37): warning C4129: 'F': unrecognized character escape sequence
+  Logic Operator.vcxproj -> C:\Users\willi\OneDrive\Skrivbord\Logic Operator\x64\Debug\Logic Operator.exe

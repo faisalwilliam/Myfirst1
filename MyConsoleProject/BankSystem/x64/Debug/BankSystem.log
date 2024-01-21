@@ -1,0 +1,9 @@
+﻿  BankSystem.cpp
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\BankSystem\Account.h(4,15): error C2011: 'Account': 'class' type redefinition
+  (compiling source file 'BankSystem.cpp')
+  C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\BankSystem\Account.h(4,7):
+  see declaration of 'Account'
+  
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\BankSystem\Bank.h(3,10): error C1014: too many include files: depth = 1024
+  (compiling source file 'BankSystem.cpp')
+  

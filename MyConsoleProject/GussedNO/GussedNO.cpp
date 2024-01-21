@@ -1,0 +1,4 @@
+// GuessNEG.cpp
+// Gissa tal-spelet med slumptal i dialog
+// Kan avslutas även om användaren inte gissar rätt
+// Villkor med den logiska operatorn NEGATION (!)#include <iostream>#include <ctime>using namespace std;int main(){	srand(time(0));	bool guessOK; 	int gussedNo, scertNo = 1 + rand() % 20;	do	{		cout << "Gessa talet mellan 1 och 20(Avsluta med 0";		cin>>gussedNo;		cout<< "\n\t";		if (gussedNo == 0)			break;		guessOK = (gussedNo == scertNo);		if (guessOK)			cout << "\n\t Grattis du har guessd Rätt\n";		if (gussedNo < scertNo) cout << "För lite\n";		if (gussedNo > scertNo) cout << "För Stört\n";	} while (!guessOK);	if (gussedNo == 0);	cout<<"\n program himliga tal var\t "<<scertNo<<'\n';	}

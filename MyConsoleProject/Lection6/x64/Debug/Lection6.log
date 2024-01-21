@@ -1,0 +1,30 @@
+﻿  lection.cpp
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Lection6\lection.cpp(46,3): error C2059: syntax error: 'if'
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Lection6\lection.cpp(46,22): error C2143: syntax error: missing ';' before '{'
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Lection6\lection.cpp(43,4): error C2143: syntax error: missing ';' before '}'
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Lection6\lection.cpp(46,22): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Lection6\lection.cpp(50,2): error C2059: syntax error: '}'
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Lection6\lection.cpp(50,2): error C2143: syntax error: missing ';' before '}'
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Lection6\lection.cpp(52,22): error C2143: syntax error: missing ';' before '{'
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Lection6\lection.cpp(52,22): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Lection6\lection.cpp(76,3): error C2065: 'currentUserIndex': undeclared identifier
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Lection6\lection.cpp(79,1): error C2059: syntax error: 'public'
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Lection6\lection.cpp(81,7): error C2059: syntax error: ')'
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Lection6\lection.cpp(81,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Lection6\lection.cpp(81,32): error C2059: syntax error: '{'
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Lection6\lection.cpp(81,32): error C2143: syntax error: missing ';' before '{'
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Lection6\lection.cpp(81,32): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Lection6\lection.cpp(93,4): error C3861: 'handleLogin': identifier not found
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Lection6\lection.cpp(97,5): error C3861: 'displayMainMenu': identifier not found
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Lection6\lection.cpp(103,6): error C3861: 'viewAccounts': identifier not found
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Lection6\lection.cpp(121,1): error C2059: syntax error: '}'
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Lection6\lection.cpp(121,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Lection6\lection.cpp(127,7): error C2039: 'run': is not a member of 'Bank'
+  C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Lection6\lection.cpp(34,11):
+  see declaration of 'Bank'
+  
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Lection6\lection.cpp(131,6): error C2086: 'Bank bank': redefinition
+  C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Lection6\lection.cpp(126,7):
+  see declaration of 'bank'
+  
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Lection6\lection.cpp(132,1): error C1004: unexpected end-of-file found

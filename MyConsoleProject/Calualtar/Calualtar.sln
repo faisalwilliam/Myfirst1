@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calualtar", "Calualtar.csproj", "{0A78B022-747B-45D5-9C6D-559C22BD8CFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A78B022-747B-45D5-9C6D-559C22BD8CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A78B022-747B-45D5-9C6D-559C22BD8CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A78B022-747B-45D5-9C6D-559C22BD8CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A78B022-747B-45D5-9C6D-559C22BD8CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C26EC431-6BAF-40DA-A098-43A7DEA8C9F1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+﻿  Palindrom – en lek med ord2.cpp
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Palindrom – en lek med ord2\Palindrom – en lek med ord2.cpp(15,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Palindrom – en lek med ord2\Palindrom – en lek med ord2.cpp(24,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Palindrom – en lek med ord2.vcxproj -> C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Palindrom – en lek med ord2\x64\Debug\Palindrom – en lek med ord2.exe

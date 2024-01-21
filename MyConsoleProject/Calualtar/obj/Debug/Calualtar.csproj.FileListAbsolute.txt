@@ -1,0 +1,10 @@
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Calualtar\bin\Debug\Calualtar.exe.config
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Calualtar\bin\Debug\Calualtar.exe
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Calualtar\bin\Debug\Calualtar.pdb
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Calualtar\obj\Debug\Calualtar.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Calualtar\obj\Debug\Calualtar.Form1.resources
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Calualtar\obj\Debug\Calualtar.Properties.Resources.resources
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Calualtar\obj\Debug\Calualtar.csproj.GenerateResource.cache
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Calualtar\obj\Debug\Calualtar.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Calualtar\obj\Debug\Calualtar.exe
+C:\Users\willi\OneDrive\Skrivbord\MyConsoleProject\Calualtar\obj\Debug\Calualtar.pdb

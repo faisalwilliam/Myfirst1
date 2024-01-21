@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{b224a970-280e-4f5c-85b4-e193e7d90e39}</ProjectGuid>
+    <ProjectHome />
+    <StartupFile />
+    <SearchPath />
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <ProjectTypeGuids>{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <InterpreterId />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="desktop.ini" />
+    <Content Include="Logic Operator\x64\Debug\Logic Operator.vcxproj.FileListAbsolute.txt" />
+    <Content Include="My Programmering\KaffeAutomatan\x64\Debug\KaffeAutomatan.vcxproj.FileListAbsolute.txt" />
+    <Content Include="MyConsoleProject\Boiler room!1201\x64\Debug\Boiler room!1201.vcxproj.FileListAbsolute.txt" />
+    <Content Include="MyConsoleProject\Calualtar\obj\Debug\Calualtar.csproj.FileListAbsolute.txt" />
+    <Content Include="MyConsoleProject\Collatz algoritmen – rekursiv 1\x64\Debug\Collatz algoritmen – rekursiv 1.vcxproj.FileListAbsolute.txt" />
+    <Content Include="MyConsoleProject\Collatz algoritmen – rekursiv!\x64\Debug\Collatz algoritmen – rekursiv!.vcxproj.FileListAbsolute.txt" />
+    <Content Include="MyConsoleProject\Collatz\x64\Debug\Collatz.vcxproj.FileListAbsolute.txt" />
+    <Content Include="MyConsoleProject\Frekvenstabell\x64\Debug\Frekvenstabell.vcxproj.FileListAbsolute.txt" />
+    <Content Include="MyConsoleProject\LbyrentanUppgifter2\x64\Debug\LbyrentanUppgifter2.vcxproj.FileListAbsolute.txt" />
+    <Content Include="MyConsoleProject\Lection10\x64\Debug\Lection10.vcxproj.FileListAbsolute.txt" />
+    <Content Include="MyConsoleProject\Lection5\x64\Debug\Lection5.vcxproj.FileListAbsolute.txt" />
+    <Content Include="MyConsoleProject\Lection6\x64\Debug\Lection6.vcxproj.FileListAbsolute.txt" />
+    <Content Include="MyConsoleProject\Nästalad\x64\Debug\Nästalad.vcxproj.FileListAbsolute.txt" />
+    <Content Include="MyConsoleProject\Palindrom – en lek med ord2\x64\Debug\Palindrom – en lek med ord2.vcxproj.FileListAbsolute.txt" />
+    <Content Include="MyConsoleProject\Palindrom – en lek med ord\x64\Debug\Palindrom – en lek med ord.vcxproj.FileListAbsolute.txt" />
+    <Content Include="MyConsoleProject\PalindromUppgifter2\x64\Debug\PalindromUppgifter2.vcxproj.FileListAbsolute.txt" />
+    <Content Include="MyConsoleProject\PasswdTextBox\obj\Debug\PasswdTextBox.csproj.FileListAbsolute.txt" />
+    <Content Include="MyConsoleProject\Repetiton\x64\Debug\Repetiton.vcxproj.FileListAbsolute.txt" />
+    <Content Include="MyConsoleProject\SistBolieroom\x64\Debug\SistBolieroom.vcxproj.FileListAbsolute.txt" />
+    <Content Include="MyConsoleProject\Tik Tak Toe\x64\Debug\Tik Tak Toe.vcxproj.FileListAbsolute.txt" />
+    <Content Include="MyConsoleProject\Webbläsar\obj\Debug\FirstBrowser.csproj.FileListAbsolute.txt" />
+    <Content Include="Spela\x64\Debug\Spela.vcxproj.FileListAbsolute.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MyPytphon.py" />
+    <Compile Include="PythonApplication1\PythonApplication1.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Logic Operator\" />
+    <Folder Include="Logic Operator\x64\" />
+    <Folder Include="Logic Operator\x64\Debug" />
+    <Folder Include="My Programmering\" />
+    <Folder Include="My Programmering\KaffeAutomatan\" />
+    <Folder Include="My Programmering\KaffeAutomatan\x64\" />
+    <Folder Include="My Programmering\KaffeAutomatan\x64\Debug" />
+    <Folder Include="MyConsoleProject\" />
+    <Folder Include="MyConsoleProject\Boiler room!1201\" />
+    <Folder Include="MyConsoleProject\Boiler room!1201\x64\" />
+    <Folder Include="MyConsoleProject\Boiler room!1201\x64\Debug" />
+    <Folder Include="MyConsoleProject\Calualtar\" />
+    <Folder Include="MyConsoleProject\Calualtar\obj\" />
+    <Folder Include="MyConsoleProject\Calualtar\obj\Debug" />
+    <Folder Include="MyConsoleProject\Collatz algoritmen – rekursiv 1\" />
+    <Folder Include="MyConsoleProject\Collatz algoritmen – rekursiv 1\x64\" />
+    <Folder Include="MyConsoleProject\Collatz algoritmen – rekursiv 1\x64\Debug" />
+    <Folder Include="MyConsoleProject\Collatz algoritmen – rekursiv!\" />
+    <Folder Include="MyConsoleProject\Collatz algoritmen – rekursiv!\x64\" />
+    <Folder Include="MyConsoleProject\Collatz algoritmen – rekursiv!\x64\Debug" />
+    <Folder Include="MyConsoleProject\Collatz\" />
+    <Folder Include="MyConsoleProject\Collatz\x64\" />
+    <Folder Include="MyConsoleProject\Collatz\x64\Debug" />
+    <Folder Include="MyConsoleProject\Frekvenstabell\" />
+    <Folder Include="MyConsoleProject\Frekvenstabell\x64\" />
+    <Folder Include="MyConsoleProject\Frekvenstabell\x64\Debug" />
+    <Folder Include="MyConsoleProject\LbyrentanUppgifter2\" />
+    <Folder Include="MyConsoleProject\LbyrentanUppgifter2\x64\" />
+    <Folder Include="MyConsoleProject\LbyrentanUppgifter2\x64\Debug" />
+    <Folder Include="MyConsoleProject\Lection10\" />
+    <Folder Include="MyConsoleProject\Lection10\x64\" />
+    <Folder Include="MyConsoleProject\Lection10\x64\Debug" />
+    <Folder Include="MyConsoleProject\Lection5\" />
+    <Folder Include="MyConsoleProject\Lection5\x64\" />
+    <Folder Include="MyConsoleProject\Lection5\x64\Debug" />
+    <Folder Include="MyConsoleProject\Lection6\" />
+    <Folder Include="MyConsoleProject\Lection6\x64\" />
+    <Folder Include="MyConsoleProject\Lection6\x64\Debug" />
+    <Folder Include="MyConsoleProject\Nästalad\" />
+    <Folder Include="MyConsoleProject\Nästalad\x64\" />
+    <Folder Include="MyConsoleProject\Nästalad\x64\Debug" />
+    <Folder Include="MyConsoleProject\Palindrom – en lek med ord2\" />
+    <Folder Include="MyConsoleProject\Palindrom – en lek med ord2\x64\" />
+    <Folder Include="MyConsoleProject\Palindrom – en lek med ord2\x64\Debug" />
+    <Folder Include="MyConsoleProject\Palindrom – en lek med ord\" />
+    <Folder Include="MyConsoleProject\Palindrom – en lek med ord\x64\" />
+    <Folder Include="MyConsoleProject\Palindrom – en lek med ord\x64\Debug" />
+    <Folder Include="MyConsoleProject\PalindromUppgifter2\" />
+    <Folder Include="MyConsoleProject\PalindromUppgifter2\x64\" />
+    <Folder Include="MyConsoleProject\PalindromUppgifter2\x64\Debug" />
+    <Folder Include="MyConsoleProject\PasswdTextBox\" />
+    <Folder Include="MyConsoleProject\PasswdTextBox\obj\" />
+    <Folder Include="MyConsoleProject\PasswdTextBox\obj\Debug" />
+    <Folder Include="MyConsoleProject\Repetiton\" />
+    <Folder Include="MyConsoleProject\Repetiton\x64\" />
+    <Folder Include="MyConsoleProject\Repetiton\x64\Debug" />
+    <Folder Include="MyConsoleProject\SistBolieroom\" />
+    <Folder Include="MyConsoleProject\SistBolieroom\x64\" />
+    <Folder Include="MyConsoleProject\SistBolieroom\x64\Debug" />
+    <Folder Include="MyConsoleProject\Tik Tak Toe\" />
+    <Folder Include="MyConsoleProject\Tik Tak Toe\x64\" />
+    <Folder Include="MyConsoleProject\Tik Tak Toe\x64\Debug" />
+    <Folder Include="MyConsoleProject\Webbläsar\" />
+    <Folder Include="MyConsoleProject\Webbläsar\obj\" />
+    <Folder Include="MyConsoleProject\Webbläsar\obj\Debug" />
+    <Folder Include="PythonApplication1" />
+    <Folder Include="Spela\" />
+    <Folder Include="Spela\x64\" />
+    <Folder Include="Spela\x64\Debug" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+</Project>
